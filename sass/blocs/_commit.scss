@@ -1,0 +1,40 @@
+.commit {
+    position: relative;
+    background-position: calc(50% - 800px) calc(50% - 160px);
+    background-image: url("../../images/back-our.png");
+    background-repeat: no-repeat;
+    background-size: 402px 404px;
+    background-color: rgb(253, 247, 237);
+    margin: 20px;
+}
+
+.commit_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 160px 0 216px 0;
+}
+
+
+
+.commit_inner_right_title {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    padding: 0;
+    margin: 0 0 24px 0;
+}
+
+.commit_inner_right_text {
+    max-width: 626px;
+    width: 100%;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    padding: 0;
+    margin: 0;
+}

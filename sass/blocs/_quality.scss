@@ -1,0 +1,38 @@
+.quality {
+    background-color: rgb(122, 68, 68);
+    margin: 20px;
+    padding: 80xp 0 0 0;
+}
+
+.quality_inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 0 20px 0;
+}
+
+.quality_inner_left {
+    padding: 100px 0 118px 0;
+}
+
+.quality_inner_left_title {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    margin: 0 0 24px 0;
+}
+
+.quality_inner_left_text {
+    max-width: 639px;
+    width: 100%;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    margin: 0;
+}
